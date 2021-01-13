@@ -1,0 +1,21 @@
+#кот{
+    width:50px;
+    height:50px;
+    background: red;
+}
+#собака{
+    width:50px;
+    height:50px;
+    background: red;
+}
+#хамяк{
+    width:50px;
+    height:50px;
+    background: red;
+}
+.circle{
+    width:50px;
+    height:50px;
+    background: red;
+    border-radius: 100px;
+}
